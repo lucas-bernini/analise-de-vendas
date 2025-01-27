@@ -1,4 +1,4 @@
-## Mini Projeto de Análise de Faturamento de Vendas de Café ☕
+## Mini Projeto de Análise de Faturamento de Vendas para um Café ☕
 
 Realizei um mini projeto de análise de faturamento para um café, utilizando uma base de dados disponível na plataforma Kaggle. A base continha informações como ID da transação, itens, quantidade, preço por unidade, total da venda, tipo de pagamento, local e data da transação.
 
